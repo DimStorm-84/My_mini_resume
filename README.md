@@ -1,5 +1,5 @@
 # My_mini_resume
 
-for begin
+to start
 
 https://dimstorm-84.github.io/My_mini_resume/01_text
